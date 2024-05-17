@@ -1,0 +1,10 @@
+D:\Project_VS\Roulette\obj\Debug\Roulette.csproj.AssemblyReference.cache
+D:\Project_VS\Roulette\obj\Debug\Roulette.Game.resources
+D:\Project_VS\Roulette\obj\Debug\Roulette.Properties.Resources.resources
+D:\Project_VS\Roulette\obj\Debug\Roulette.csproj.GenerateResource.cache
+D:\Project_VS\Roulette\obj\Debug\Roulette.csproj.CoreCompileInputs.cache
+D:\Project_VS\Roulette\bin\Debug\Roulette.exe.config
+D:\Project_VS\Roulette\bin\Debug\Roulette.exe
+D:\Project_VS\Roulette\bin\Debug\Roulette.pdb
+D:\Project_VS\Roulette\obj\Debug\Roulette.exe
+D:\Project_VS\Roulette\obj\Debug\Roulette.pdb
